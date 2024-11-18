@@ -34,3 +34,6 @@ h2{
     margin: 10px;
     color: hsl(332, 51%, 36%);
 }
+tr{
+    border-bottom: 1px solid black;
+}
